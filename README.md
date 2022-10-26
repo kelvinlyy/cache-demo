@@ -8,3 +8,7 @@ It also uses WebClient to perform simple retrieval of json data from TMDB.
 - initial capacity
 - maximum size
 - expiration time
+
+## Reference:
+
+[Caffeine caching configuration](https://www.javadevjournal.com/spring-boot/spring-boot-with-caffeine-cache/)
