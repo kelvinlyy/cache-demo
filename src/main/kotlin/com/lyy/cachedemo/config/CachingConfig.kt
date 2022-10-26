@@ -1,3 +1,15 @@
+/*
+File: CachingConfig.kt
+Author: Kelvin LYY
+Summary: Configuration file for spring boot caching
+Description: Configure for spring boot caching
+            - initial caching capacity
+            - maximum caching size
+            - expiration time after write/access...
+
+*/
+
+
 package com.lyy.cachedemo.config
 
 import com.github.benmanes.caffeine.cache.Caffeine

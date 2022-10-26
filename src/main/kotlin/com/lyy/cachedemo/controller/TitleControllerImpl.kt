@@ -1,3 +1,12 @@
+/*
+File: TitleControllerImpl.kt
+Author: Kelvin LYY
+Summary: Implementation of Title Controller
+Description: Implementation of Title Controller
+            - call getTrendingTitles from TitleService
+
+*/
+
 package com.lyy.cachedemo.controller
 
 import com.lyy.cachedemo.controller.TitleControllerImpl.Companion.FETCH_BASE_URL

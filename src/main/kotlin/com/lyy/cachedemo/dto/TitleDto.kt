@@ -1,3 +1,10 @@
+/*
+File: TitleDto.kt
+Author: Kelvin LYY
+Summary: Representation of Title object in TitleResponse
+
+*/
+
 package com.lyy.cachedemo.dto
 
 data class TitleDto(
