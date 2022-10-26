@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+#spring:
+#  # need to add @EnableCaching to configuration if application.yaml config is used instead of CachingConfig file
+#  cache:
+#    cache-names: trendingTitles
+#    caffeine.spec: expireAfterAccess=6s
